@@ -16,7 +16,6 @@ Soy un Desarrollador Web Jr, estudiando para ser Full Stack Developer
 - SASS
 - CSS3
 - HTML5
-- JavaScript
 - ReactJS
 - FireBase
 
