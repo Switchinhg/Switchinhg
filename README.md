@@ -7,7 +7,8 @@ Soy un Desarrollador Web Jr, estudiando para ser Full Stack Developer
 
 ## 🌱 Actualmente 
 
-- Estudiando ReactJS en CoderHouse
+- Haciendo proyectos de ReactJS y JS
+- Aprendiendo
 
 ## Habilidades 
 
@@ -15,6 +16,7 @@ Soy un Desarrollador Web Jr, estudiando para ser Full Stack Developer
 - SASS
 - CSS3
 - HTML5
+- JavaScript
 - ReactJS
 - FireBase
 
