@@ -3,19 +3,20 @@
 
 ## Sobre Mi
 
-Soy un Desarrollador Web Jr, estudiando para ser Full Stack Developer
+Soy Desarrollador Web Jr, estudiando para ser Full Stack Developer
 
 ## 🌱 Actualmente 
 
+- Cursando programación Backend
 - Haciendo proyectos de ReactJS y JS
-- Aprendiendo
+- Mejorando todos los dias
 
 ## Habilidades 
 
 - JavaScript
-- SASS
+- SCSS
 - CSS3
 - HTML5
 - ReactJS
-- FireBase
+- Firebase
 
