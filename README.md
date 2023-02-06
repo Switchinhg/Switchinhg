@@ -3,24 +3,25 @@
 
 ## Sobre Mi
 
-Soy Desarrollador Web Jr, estudiando para ser Full Stack Developer
+Soy Desarrollador Frontend Jr, estudiando para ser Full Stack Developer
 
 ## 🌱 Actualmente 
 
-- Cursando programación Backend y React Native
-- Haciendo proyectos de ReactJS y JS
-- Mejorando todos los dias
+- Cursando programación Backend
+- Desarrollando FocusG - app fullstack de tienda de videojuegos
+- Aprendiendo todo lo posible
 
 ## Habilidades 
 
-- JavaScript
-- SCSS
-- CSS3
 - HTML5
+- CSS3
+- JavaScript
+- SASS
 - ReactJS
+- ReactNative
+- NodeJS
 - Firebase
 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=switchinhg&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=switchinhg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
