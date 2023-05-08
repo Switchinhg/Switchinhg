@@ -7,8 +7,7 @@ Soy Desarrollador Frontend Jr, estudiando para ser Full Stack Developer
 
 ## 🌱 Actualmente 
 
-- Cursando programación Backend
-- Desarrollando FocusG - app fullstack de tienda de videojuegos
+- Desarrollando Shoppy, Software de contador de inventario para almacenes
 - Aprendiendo todo lo posible
 
 ## Habilidades 
@@ -21,6 +20,7 @@ Soy Desarrollador Frontend Jr, estudiando para ser Full Stack Developer
 - ReactNative
 - NodeJS
 - Firebase
+- Supabase
 
 
 
