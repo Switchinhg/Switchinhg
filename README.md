@@ -8,7 +8,8 @@ Soy Desarrollador Frontend Jr, estudiando para ser Full Stack Developer
 ## 🌱 Actualmente 
 
 - Desarrollando Shoppy, Software de contador de inventario para almacenes
-- Aprendiendo todo lo posible
+- Cursando la segunda fase de Jovenes a Programar
+- Trabajando en EndlessMining como desarrollador web 💪
 
 ## Habilidades 
 
