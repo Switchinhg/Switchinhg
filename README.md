@@ -23,7 +23,7 @@ Soy Desarrollador Frontend Jr, estudiando para ser Full Stack Developer
 - Firebase
 - PHP
 - Codeigniter
-- SQL
+- SQL 
 
 
 
