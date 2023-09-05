@@ -21,7 +21,9 @@ Soy Desarrollador Frontend Jr, estudiando para ser Full Stack Developer
 - ReactNative
 - NodeJS
 - Firebase
-- Supabase
+- PHP
+- Codeigniter
+- SQL
 
 
 
