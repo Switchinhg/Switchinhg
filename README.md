@@ -3,7 +3,7 @@
 
 ## Sobre Mi
 
-Soy Desarrollador Frontend Jr, estudiando para ser Full Stack Developer
+### Soy Desarrollador web fullstack.
 
 ## 🌱 Actualmente 
 
@@ -23,7 +23,7 @@ Soy Desarrollador Frontend Jr, estudiando para ser Full Stack Developer
 - Firebase
 - PHP
 - Codeigniter
-- SQL 
+- SQL
 
 
 
