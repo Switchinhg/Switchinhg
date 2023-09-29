@@ -3,7 +3,7 @@
 
 ## Sobre Mi
 
-### Soy Desarrollador web fullstack.
+Soy Desarrollador web fullstack.
 
 ## 🌱 Actualmente 
 
